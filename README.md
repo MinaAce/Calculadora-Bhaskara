@@ -12,7 +12,7 @@
 ```
 >>> a b c 
 ```
-e apertar a tecla Enter
+*e apertar a tecla Enter*
 
 **Pessoa Desenvolvedora do Projeto:** Marques Henrique Silva de Jesus
 
